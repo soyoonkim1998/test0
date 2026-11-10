@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# 앱 데이터
+data/items.json
+data/*.tmp
+
+# Streamlit 비밀 설정
+.streamlit/secrets.toml
+
+# Playwright MCP 출력
+.playwright-mcp/
