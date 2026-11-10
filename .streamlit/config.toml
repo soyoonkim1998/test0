@@ -1,0 +1,16 @@
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#2E7D32"            # 녹색 포인트 (흰 글자 대비 5.1:1)
+backgroundColor = "#F7FAF7"
+secondaryBackgroundColor = "#E8F2EA"
+textColor = "#1F2A22"
+grayTextColor = "#5F6B63"           # 완료 항목/메모 회색 글자
+borderColor = "#D5E3D8"
+font = "sans-serif"
+baseRadius = "medium"
